@@ -78,12 +78,7 @@ jupyter notebook house_price_prediction.ipynb
 ---
 
 ## 🤝 Contributing  
-Contributions are welcome! If you’d like to improve the model, add more algorithms, or enhance visualizations, feel free to fork the repo and submit a pull request.  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+Contributions are welcome! If you’d like to improve the model, add more algorithms, or enhance visualizations, feel free to fork the repo and submit a pull request.    
 
 ---
 
